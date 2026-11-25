@@ -1,0 +1,15 @@
+---
+title: "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
+collection: publications
+category: conferences
+permalink: /publication/2023-ceval-chinese-evaluation-suite
+date: 2023-01-01
+venue: 'Neural Information Processing Systems (NeurIPS)'
+citation: 'Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. (2023). &quot;C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.&quot; <i>Neural Information Processing Systems (NeurIPS)</i>.'
+---
+
+C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.
+
+Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
+
+Neural Information Processing Systems (NeurIPS), 2023.
